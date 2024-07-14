@@ -1,0 +1,11 @@
+name: SpectraAuctions
+version: 1.0
+main: me.nashplugz.spectraauction.SpectraAuctions
+api-version: 1.21
+depend: [Vault]
+commands:
+  au:
+    description: Open the SpectraAuctions menu
+    usage: /<command>
+    aliases: [auction, auctions, spectraauctions]
+
